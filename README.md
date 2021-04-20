@@ -1,2 +1,2 @@
 # Clock
-Web Based Clock
+Web Based Digital Clock
